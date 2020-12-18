@@ -1,0 +1,89 @@
+1608196809492	geckodriver	INFO	Listening on 127.0.0.1:50185
+1608196812494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\xibin3\\AppData\\Local\\Temp\\rust_mozprofileP24lwr"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608196815070	Marionette	INFO	Listening on port 50199
+1608196815319	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 45: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 45: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 45: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 45: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://kyfw.12306.cn/otn/HttpZF/logdevice?algID=Uhey2Z6isl&hashCode=bx1DO-DGH7ZbBRGqPhZ4s0o7P2IRAXh_I23ZIVe64GQ&FMQw=0&q4f3=zh-CN&VPIf=1&custID=133&VEek=unspecified&dzuS=0&yD16=0&EOQP=8eb3723825447ffdef970bb1b216e12e&jp76=d41d8cd98f00b204e9800998ecf8427e&hAqN=Win32&platform=WEB&ks0Q=d41d8cd98f00b204e9800998ecf8427e&TeRS=768x1366&tOHY=24xx768x1366&Fvje=i1l1s1&q5aJ=-8&wNLf=99115dfb07133750ba677d055874de87&0aew=Mozilla/5.0%20(Windows%20NT%206.1;%20Win64;%20x64;%20rv:83.0)%20Gecko/20100101%20Firefox/83.0&E3gR=2c62d87a521f786c230065fee367303f&timestamp=1608196817950, line 1: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+08196885154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\xibin3\\AppData\\Local\\Temp\\rust_mozprofileuVO1VS"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1608196949839	geckodriver	INFO	Listening on 127.0.0.1:50496
+1608196952877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\xibin3\\AppData\\Local\\Temp\\rust_mozprofileu93THx"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608196954569	Marionette	INFO	Listening on port 50508
+1608196955061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 67: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 67: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 67: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 67: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Corrupt JPEG data: 17 extraneous bytes before marker 0xd9
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.137.1/collina.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.137.1/collina.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.137.1/collina.js, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.137.1/collina.js, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 67: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 67: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 67: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 67: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1608196972587	Marionette	INFO	Stopped listening on port 50508
+1608252303056	geckodriver	INFO	Listening on 127.0.0.1:50884
+1608252306129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\xibin3\\AppData\\Local\\Temp\\rust_mozprofilePLEmTS"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608252308652	Marionette	INFO	Listening on port 50895
+1608252308892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 66: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 66: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 66: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 66: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Corrupt JPEG data: 14 extraneous bytes before marker 0xd9
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.137.1/collina.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.137.1/collina.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.137.1/collina.js, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.137.1/collina.js, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 66: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 66: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 66: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://kyfw.12306.cn/otn/HttpZF/GetJS, line 66: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1608252324873	Marionette	INFO	Stopped listening on port 50895

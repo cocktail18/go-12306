@@ -1,0 +1,33 @@
+#用户名
+username: 
+#密码
+password: 
+#Cookie
+cookie: 
+#车次(可多个)
+train:
+- C2587
+#席座(可多个)
+seats:
+- 二等座
+#乘车人(最多五个)
+passengers:
+- 张xx
+#出发地
+form: 北京
+#目的地
+to: 天津
+#出发时间
+time: 2020-12-18
+#抢票成功通知邮箱
+mail:
+- 772224124@qq.com
+#发件邮箱
+fmail: 
+#发件密码
+fpassword: 
+#邮箱服务器
+host: 
+#邮箱端口
+port: 
+
